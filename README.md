@@ -1,4 +1,4 @@
-# regression_model
+# Admission Score Prediction Model
 A Regression model for predicting the chance of Admit for a student applying for admission at a University.
 
 Having the input features : GRE Score, TOEFL Score, University Rating, SOP, LOR, CGPA and Research.
